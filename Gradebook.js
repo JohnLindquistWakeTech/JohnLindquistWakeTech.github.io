@@ -1,5 +1,5 @@
 // TODO: Fetch data from the PostgreSQL database (to be implimented later)
-function FetchGradeData() {
+function fetchGradeData() {
     // This function will query the PostgreSQL database and return grade data
     console.log("Fetching grade data...");
 }
